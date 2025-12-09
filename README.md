@@ -53,6 +53,8 @@ Enter 3 to Update User Password
 Enter 4 to Display User Details based on Username
 
 ## 🧾 UML Use Case Diagram
+
+```
          +-------------+
          |   User      |
          +-------------+
@@ -65,6 +67,9 @@ Enter 4 to Display User Details based on Username
  +--------------------------------+
  |      User Management System    |
  +--------------------------------+
+```
+
+---
 
 ### 🎉 Thank You!
 
