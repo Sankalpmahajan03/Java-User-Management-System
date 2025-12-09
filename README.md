@@ -25,6 +25,7 @@ A console-based User Management System built using **Java, JDBC, and MySQL**, de
 
 ## 📂 Project Structure
 
+```
 src/
 └── org.sankalp/
     ├── DBconnection.java            // Handles database connection
@@ -33,6 +34,8 @@ src/
     ├── DisplayUserBasedOnCity.java  // Fetch users by city
     ├── UpdatePassword.java          // Update user password
     └── Entry.java                   // Main CLI & menu program
+```
+
 
 ## 🗄 Database Schema (MySQL)
 
